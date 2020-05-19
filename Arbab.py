@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To Omi Chaudhary
+#The Credit For This Code Goes To Arbab Ali Memon
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
@@ -48,7 +48,7 @@ def jalan(z):
 		sys.stdout.flush()
 		time.sleep(0.07)
 
-#Dev:Omi_Ch
+#Dev:Arbab-Memon
 ##### LOGO #####
 logo = """
 \033[1;91m╭━━━┳╮╱╱╱╱╭╮╱╱╱╱╱╱╱╱╱╱╭╮╱╱╱╱╱╭━━━╮╱╭╮╱╱╱╱╭╮
@@ -103,8 +103,8 @@ jalan("\033[1;95m   Arbab Ali Memon +923003023263 ")
 jalan("\033[1;94m   My Totallly CommondS Will update once in a Week.")
 print "\033[1;91m«-------------\033[1;93mLogin With Tool\033[1;91m-------------»"
 
-CorrectUsername = "Omi6t"
-CorrectPassword = "Omi"
+CorrectUsername = "Shahzada"
+CorrectPassword = "Arbab"
 
 loop = 'true'
 while (loop == 'true'):

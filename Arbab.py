@@ -51,18 +51,17 @@ def jalan(z):
 #Dev:Omi_Ch
 ##### LOGO #####
 logo = """
-        \033[1;97m::::::::    :::   :::   ::::::::::: 
-      \033[1;97m:+:    :+:  :+:+: :+:+:      :+:      
-     \033[1;92m+:+    +:+ +:+ +:+:+ +:+     +:+       
-    \033[1;92m+#+    +:+ +#+  +:+  +#+     +#+        
-   \033[1;92m+#+    +#+ +#+       +#+     +#+         
-  \033[1;92m#+#    #+# #+#       #+#     #+#          
-  \033[1;92m########  ###       ### ###########
+\033[1;91m╭━━━┳╮╱╱╱╱╭╮╱╱╱╱╱╱╱╱╱╱╭╮╱╱╱╱╱╭━━━╮╱╭╮╱╱╱╱╭╮
+\033[1;92m┃╭━╮┃┃╱╱╱╱┃┃╱╱╱╱╱╱╱╱╱╱┃┃╱╱╱╱╱┃╭━╮┃╱┃┃╱╱╱╱┃┃
+\033[1;93m┃╰━━┫╰━┳━━┫╰━┳━━━┳━━┳━╯┣━━╮╱╱┃┃╱┃┣━┫╰━┳━━┫╰━╮
+\033[1;94m╰━━╮┃╭╮┃╭╮┃╭╮┣━━┃┃╭╮┃╭╮┃╭╮┣━━┫╰━╯┃╭┫╭╮┃╭╮┃╭╮┃
+\033[1;95m┃╰━╯┃┃┃┃╭╮┃┃┃┃┃━━┫╭╮┃╰╯┃╭╮┣━━┫╭━╮┃┃┃╰╯┃╭╮┃╰╯┃
+\033[1;96m╰━━━┻╯╰┻╯╰┻╯╰┻━━━┻╯╰┻━━┻╯╰╯╱╱╰╯╱╰┻╯╰━━┻╯╰┻━━╯
 \033[1;97m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;92m๑۩۩๑\033[1;97m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
-\033[1;97mAuthor©\033[1;97m: \033[1;92mOmi Chaudhary
-\033[1;97mInstagram\033[1;97m: \033[1;92mhttps://www.Instagram.com/Omi6t
-\033[1;97mFacebook\033[1;97m: \033[1;92mhttps://www.facebook.com/Omi6t
-\033[1;97mWhatsapp\033[1;97m: \033[1;92m+923117675174
+\033[1;97mAuthor©\033[1;97m: \033[1;92mMr Arbab Ali Memon
+\033[1;97mInstagram\033[1;97m: \033[1;92mhttps://ArbabMemon
+\033[1;97mFacebook\033[1;97m: \033[1;92mhttps://www.facebook.com/ArbabMemon
+\033[1;97mWhatsapp\033[1;97m: \033[1;92m+923003023263
 \033[1;97m«--------------------\033[1;92m✧\033[1;97m--------------------»"""
 
 def tik():
@@ -92,16 +91,16 @@ print  """
    \033[1;91m\_/\_/ |___|____|\___\___/|_|  |_|___|
 \033[1;91m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;93m๑۩۩๑\033[1;91m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 \033[1;91mAuthor©\033[1;91m: \033[1;93mOmi Chaudhary
-\033[1;91mInstagram\033[1;91m: \033[1;93mhttps://www.Instagram.com/Omi6t
-\033[1;91mFacebook\033[1;91m: \033[1;93mhttps://www.facebook.com/Omi6t
-\033[1;91mWhatsapp\033[1;91m: \033[1;93m+923117675174
+\033[1;91mInstagram\033[1;91m: \033[1;93mhttps://www.Instagram.com/ArbabMemon
+\033[1;91mFacebook\033[1;91m: \033[1;93mhttps://www.facebook.com/ArbabMemon
+\033[1;91mWhatsapp\033[1;91m: \033[1;93m+923003023263
 \033[1;91m«--------------------\033[1;93m✧\033[1;91m--------------------»"""
 jalan('              \033[1;91mREAD CAREFULLY:')
-jalan("\033[1;97m   It's not in Commands Control to get a   ")
-jalan('\033[1;97m   New or Old Account,It Totally Depends   ')
-jalan('\033[1;97m   on Friends List And the Accounts that   ')
-jalan("\033[1;97m   goes to Checkpoint is due to Facebook ")
-jalan("\033[1;97m    Security,That's not Commands Issue.")
+jalan("\033[1;97m   This Commond Is Only For Education Way  ")
+jalan('\033[1;98m   Away From Missuse Dont Fool AnyOne   ')
+jalan('\033[1;96m   Contact Me If any Probelem   ')
+jalan("\033[1;95m   Arbab Ali Memon +923003023263 ")
+jalan("\033[1;94m   My Totallly CommondS Will update once in a Week.")
 print "\033[1;91m«-------------\033[1;93mLogin With Tool\033[1;91m-------------»"
 
 CorrectUsername = "Omi6t"
@@ -118,10 +117,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;91mWrong Password"
-            os.system('xdg-open https://www.Facebook.com/Omi6t')
+            os.system('xdg-open +923003023263')
     else:
         print "\033[1;91mWrong Username"
-        os.system('xdg-open https://www.Facebook.com/Omi6t')
+        os.system('xdg-open +923003023263')
 
 def login():
 	os.system('clear')
@@ -213,7 +212,7 @@ def menu():
 	print "	   \033[1;93m Name\033[1;93m:\033[1;97m"+nama+"\033[1;97m               "
 	print "	   \033[1;93m ID\033[1;93m:\033[1;97m"+id+"\x1b[1;97m              "
 	print "\033[1;97m«--------------------\033[1;92m✧\033[1;97m--------------------»"
-	print "\033[1;97m--\033[1;92m> \033[1;92m1.\x1b[1;92mStart Cloning..."
+	print "\033[1;97m--\033[1;92m> \033[1;92m1.\x1b[1;92mStart Attack On Facebook..."
 	print "\033[1;97m--\033[1;91m> \033[1;91m0.\033[1;91mExit            "
 	pilih()
 
@@ -246,7 +245,7 @@ def super():
 		login()
 	os.system('clear')
 	print logo
-	print "\033[1;97m--\033[1;92m> \033[1;92m1.\x1b[1;92mClone From Friend List..."
+	print "\033[1;97m--\033[1;92m> \033[1;92m1.\x1b[1;92mClone From Login ID..."
 	print "\033[1;97m--\033[1;92m> \033[1;92m2.\x1b[1;92mClone From Public ID..."
 	print "\033[1;97m--\033[1;91m> \033[1;91m0.\033[1;91mBack"
 	pilih_super()
@@ -306,7 +305,7 @@ def pilih_super():
 		try:
 			os.mkdir('out')
 		except OSError:
-			pass #Dev:Omi_Ch
+			pass #Dev:Arbab-Ali
 		try:
 			a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
 			b = json.loads(a.text)
@@ -417,17 +416,17 @@ def pilih_super():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "\033[1;97m«--------------------\033[1;92m✧\033[1;97m--------------------»"
-	print "  \033[1;91m«---------Developed By Omi------------»" #Dev:Omi_Ch
+	print "  \033[1;91m«---------Developed By MrArbab------------»" #Dev:Arbab-Ali
 	print '\033[1;92mProcess Has Been Completed\033[1;92m....'
 	print"\033[1;92mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;92m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
 	print """
               .--,       .--,
-             ( (  \.---./  ) )
+             ( (  \.---./  ) ) Contact Me +923003023263
               '.__/o   o\__.'
                  {=  ^  =}
                   >  -  <
 .-------------.""`-------`"".-------------.
-: \033[1;92m     Hope You Will Come Back Soon..    \033[1;93m :
+: \033[1;92m     BABY FEEL ON RAKH MEMON ARBAB..    \033[1;93m :
 '-----------------------------------------' 
                 ___)( )(___
                (((__) (__)))"""

